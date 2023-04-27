@@ -1,4 +1,4 @@
-# # HackerRank - SQL - Advanced Select - Type of Triangle
+# HackerRank - SQL - Advanced Select - Type of Triangle
 
 Write a query identifying the type of each record in the TRIANGLES table using its three side lengths. Output one of the following statements for each record in the table:
 
@@ -32,13 +32,13 @@ Each row in the table denotes the lengths of each of a triangle's three sides.
 
 ## Sample Output
 
-`Isosceles`
+|                  |
+|------------------|
+| `Isosceles`      |
+| `Equilateral`    |
+| `Scalene`        |
+| `Not A Triangle` |
 
-`Equilateral`
-
-`Scalene`
-
-`Not A Triangle`
 
 ## Explanation
 - Values in the tuple (20,20,23) form an Isosceles triangle, because A=B.
