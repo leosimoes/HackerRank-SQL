@@ -17,6 +17,7 @@
 - Weather Observation Station 17
 - Weather Observation Station 18
 - Weather Observation Station 19
+- Weather Observation Station 20
 
 
 ## References
